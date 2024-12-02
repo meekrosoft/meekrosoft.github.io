@@ -2,3 +2,26 @@ baseURL = 'https://www.meekrosoft.com/'
 languageCode = 'en-us'
 title = 'Mike Long'
 theme = ["PaperMod"]
+
+[homeInfoParams]
+    Title = "Hi there \U0001F44B"
+    Content = "Welcome to my blog"
+
+
+[[menu.main]]
+identifier = "categories"
+name = "categories"
+url = "/categories/"
+weight = 10
+
+[[menu.main]]
+identifier = "tags"
+name = "tags"
+url = "/tags/"
+weight = 20
+
+[[menu.main]]
+identifier = "about"
+name = "about"
+url = "/hello"
+weight = 30
