@@ -13,7 +13,7 @@ Wealth tax is stupid, it really is.  For those keeping score, let's list the rea
 
 What happens when your most successful startup founders are expected to pay taxes several multiples of salary on frozen and unrealized value?  [They have to leave](https://paragraph.xyz/@hagaetc/norway-shrugged)
 
-This loss of talent and capital is effectively a one-way-door, which reduces job creation and entrepreneurship in the economy. 
+This loss of talent and capital is effectively a one-way-door, which has long term negative effects on job creation and entrepreneurship in the economy. 
 
 
 ## It destroys value in SME's with capital intensive businesses

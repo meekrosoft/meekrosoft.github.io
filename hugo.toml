@@ -6,9 +6,9 @@ theme = ["PaperMod"]
 [params]
 	social = true
 
-[homeInfoParams]
-    Title = "Hi there \U0001F44B"
-    Content = "Welcome to my blog"
+[params.homeInfoParams]
+Title = "Hi there \U0001F44B"
+Content = "I'm [Mike](/hello).  This is my blog"
 
 
 [[menu.main]]
