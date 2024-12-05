@@ -4,7 +4,7 @@ date = 2024-12-04T14:59:28-08:00
 draft = false
 +++
 
-Wealth tax is stupid, it really is.  For those keeping score, let's list the reasons...
+Wealth tax[^1] is stupid, it really is.  For those keeping score, let's list the reasons...
 
 {{< table_of_contents >}}
 
@@ -44,3 +44,7 @@ _source: https://papers.ssrn.com/sol3/papers.cfm?abstract_id=1268381_
 ## It transfers ownership to foreign interests
 
 You know who _doesn't have to pay wealth taxes_?  Foreign non-domicile owners.... So guess who will buy up the stakes in companies that founders have to sell to pay their tax...
+
+
+
+[^1]: Here's the tl;dr: Norway has instituted a wealth tax.  This led a lot of wealthy folks to leave the country.  To stop this, Norway has instututed an exit tax.  Now, these laws are having real negative effects on startup founders who have paper wealth, zero liquidity, and are now trapped from growing their businesses internationally.
