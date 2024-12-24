@@ -10,7 +10,16 @@ This page contains notes and references to various SLDC resources
 
 ### NIST SP 800-204D: Strategies for the Integration of Software Supply Chain Security in DevSecOps CI/CD Pipelines
 
-Definition of a software supply chain step:
+Source: https://csrc.nist.gov/pubs/sp/800/204/d/final_
 
 ![Definition of a software supply chain step](/images/NIST-800-software-supply-chain-step.png)
-_source: https://csrc.nist.gov/pubs/sp/800/204/d/final_
+
+
+
+### DoD Enterprise DevSecOps Fundamentals
+
+Source: https://dodcio.defense.gov/Portals/0/Documents/Library/DoD%20Enterprise%20DevSecOps%20Fundamentals%20v2.5.pdf
+
+![Software Factory](/images/DoD-software-factory.png)
+
+This document defines the Department of Defense's fundamental approach to DevSecOps, which combines software development, security, and operations methodologies to deliver secure software capabilities more rapidly and effectively
